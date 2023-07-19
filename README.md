@@ -6,7 +6,3 @@
 - [https://docs.google.com/presentation/d/1LRyYfRBsx-wAGVpBOxhNQFC0TttdBojk/edit?usp=drive_link&ouid=100742902694856536039&rtpof=true&sd=true](https://drive.google.com/file/d/1uZhBn9eP73mSkDQqoXCqZHFa4jIUlaWF/view?usp=sharing)https://drive.google.com/file/d/1uZhBn9eP73mSkDQqoXCqZHFa4jIUlaWF/view?usp=sharing
 
 [발표PPT]
-
-![슬라이드2](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/264c0701-d95d-4505-8a40-cf7a5e889d4d)
-![슬라이드3](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/f9d83ccd-2f33-49a4-b138-67796af29422)
-![슬라이드4](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/e32212e7-36cc-4460-a565-e008f271881e)
