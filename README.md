@@ -23,8 +23,8 @@
 # 🎥지금부터 설명을 시작하겠습니다.
 ![최종발표_1](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/12061b8e-77b4-48ba-a919-59c23325f257)
 ![최종발표_2](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/9c58d7da-a23a-4ab2-8a91-204a423d343f)
- - 저희 게임에 대해 간단하게 요약을 하자면 사용자가 직접 맨몸운동을 함으로써 게임 캐릭터의 스탯을 향상시킵니다.
- - 이후 몬스터를 사냥할때도 사용자의 모션을 감지하여 공격과 방어를 진행하게 됩니다.
+ - 저희 게임에 대해 간단하게 요약을 하자면 사용자가 직접 맨몸운동을 함으로써 게임 캐릭터의 스탯을 향상시키고, 이후 몬스터를 사냥할때도 사용자의 모션을 감지하여 공격과 방어를 진행합니다.
+ 
 ![최종발표_3](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/4f5ff816-7a19-422e-bec1-f0fe9c1998cd)
 ![최종발표_4](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/c2698cba-80ae-4bc9-a430-7a24a4bd1c26)
  - Revenge_Of_Cactus를 만들게 동기는 코로나를 겪으며 재택근무가 많아지게되고 움직이지않자 비만과 같은 문제가 계속해서 커져가고있었습니다.
