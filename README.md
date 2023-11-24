@@ -20,7 +20,9 @@
 - python
 - pytorch
 
-## 🏆 경남 SW 경진대회에서 최우수상을 수여하였습니다.
+## 🏆 경남 SW 경진대회에서 최우수상을 수여하였습니다.🎊🎊
+
+
 
 # 🎥지금부터 설명을 시작하겠습니다.
 ![최종발표_1](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/12061b8e-77b4-48ba-a919-59c23325f257)
