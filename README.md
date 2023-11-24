@@ -23,8 +23,7 @@
 # 🎥지금부터 설명을 시작하겠습니다.
 ![최종발표_1](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/12061b8e-77b4-48ba-a919-59c23325f257)
 ![최종발표_2](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/9c58d7da-a23a-4ab2-8a91-204a423d343f)
- - 저희 게임에 대해 간단하게 요약을 하자면 사용자가 직접 맨몸운동을 함으로써 게임 캐릭터의 스탯을 향상시킵니다.
- - 이후 몬스터를 사냥할때도 사용자의 모션을 감지하여 공격과 방어를 진행하게 됩니다.
+ - 저희 게임에 대해 간단하게 요약을 하자면 사용자가 직접 맨몸운동을 함으로써 게임 캐릭터의 스탯을 향상시키고, 이후 몬스터를 사냥할때도 사용자의 모션을 감지하여 공격과 방어를 진행하게 됩니다.
 
 ![최종발표_3](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/4f5ff816-7a19-422e-bec1-f0fe9c1998cd)
 ![최종발표_4](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/c2698cba-80ae-4bc9-a430-7a24a4bd1c26)
@@ -51,6 +50,9 @@
    
 ![최종발표_12](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/7f575d9b-1032-4ea9-b75b-31855b7d29c5)
 ![최종발표_13](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/8de4a113-9c7f-4d5b-b03c-19a1a6e058c3)
+ - 게임은 웹 캠으로 들어온 이미지를 open pose로 사람을 인식하고 동작을 판단하여 현재 운동의 시간 및 개수를 계산합니다.
+ - 이후 게임의 전반적인 진행은 ppt안에 글을 읽어주시면 감사하겠습니다.
+
 ![최종발표_14](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/e08bb7d6-8455-4230-9a05-4ce05eefb530)
 ![최종발표_15](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/ea572b7a-603a-4ba5-9c57-6f79ba1bd932)
 ![최종발표_16](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/d460fdcd-13f0-4f33-be52-cd542a267df3)
@@ -73,6 +75,7 @@
 ![최종발표_33](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/ab47d728-b02e-4721-bae2-f0ee74e43620)
 ![최종발표_34](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/f46307dd-0737-4d87-bc61-52706e0dd23a)
 ![최종발표_35](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/9f6af012-06d9-4f70-a2d6-3079fdf4bc9d)
+- 마니얼
 ![최종발표_36](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/5b2afd33-77e8-4f6b-a1a9-5e7da0e0388f)
 ![최종발표_37](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/e62cefd3-23f2-442e-b0d8-a13cbd9a9a85)
 ![최종발표_38](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/2addb93f-b475-4a57-9222-747b8e0bd32b)
