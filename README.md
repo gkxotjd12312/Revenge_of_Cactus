@@ -21,19 +21,17 @@
 - pytorch 
 
 # 🎥지금부터 설명을 시작하겠습니다.
-
-
-[다운로드링크]
-- [https://docs.google.com/presentation/d/1LRyYfRBsx-wAGVpBOxhNQFC0TttdBojk/edit?usp=drive_link&ouid=100742902694856536039&rtpof=true&sd=true](https://drive.google.com/file/d/1uZhBn9eP73mSkDQqoXCqZHFa4jIUlaWF/view?usp=sharing)https://drive.google.com/file/d/1uZhBn9eP73mSkDQqoXCqZHFa4jIUlaWF/view?usp=sharing
-
-[발표PPT]
-
 ![최종발표_1](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/12061b8e-77b4-48ba-a919-59c23325f257)
 ![최종발표_2](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/9c58d7da-a23a-4ab2-8a91-204a423d343f)
+ - 저희 게임에 대해 간단하게 요약을 하자면 사용자가 직접 맨몸운동을 함으로써 게임 캐릭터의 스탯을 향상시킵니다.
+ - 이후 몬스터를 사냥할때도 사용자의 모션을 감지하여 공격과 방어를 진행하게 됩니다.
 ![최종발표_3](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/4f5ff816-7a19-422e-bec1-f0fe9c1998cd)
 ![최종발표_4](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/c2698cba-80ae-4bc9-a430-7a24a4bd1c26)
+ - Revenge_Of_Cactus를 만들게 동기는 코로나를 겪으며 재택근무가 많아지게되고 움직이지않자 비만과 같은 문제가 계속해서 커져가고있었습니다.
 ![최종발표_5](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/bcae434d-f725-4c51-96b1-dfff3b5f97b7)
+ - 이러한 문제는 신체적 건강 뿐만 아니라 심리적 건강까지 해치게 되었습니다.
 ![최종발표_6](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/a3e8f8b2-8dc1-4863-bf53-3120d736a7f5)
+ - 
 ![최종발표_7](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/699a02bd-4be3-4dc4-9f66-67bd03f0726a)
 ![최종발표_8](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/c1dd82fe-cb2a-4a6a-b5ee-6e0cc2ec8463)
 ![최종발표_9](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/a64c84d4-7da1-414f-b3e4-d82c825bf449)
