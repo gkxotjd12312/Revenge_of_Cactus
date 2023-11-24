@@ -18,7 +18,9 @@
 - C#     
 - Unity
 - python
-- pytorch 
+- pytorch
+
+## 🏆 경남 SW 경진대회에서 최우수상을 수여하였습니다.
 
 # 🎥지금부터 설명을 시작하겠습니다.
 ![최종발표_1](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/12061b8e-77b4-48ba-a919-59c23325f257)
@@ -75,12 +77,14 @@
 ![최종발표_33](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/ab47d728-b02e-4721-bae2-f0ee74e43620)
 ![최종발표_34](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/f46307dd-0737-4d87-bc61-52706e0dd23a)
 ![최종발표_35](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/9f6af012-06d9-4f70-a2d6-3079fdf4bc9d)
-- 마니얼
 ![최종발표_36](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/5b2afd33-77e8-4f6b-a1a9-5e7da0e0388f)
+ - 시연 영상을 잃어 버려서 진행을 보여드리지 못하는 점 죄송합니다.
 ![최종발표_37](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/e62cefd3-23f2-442e-b0d8-a13cbd9a9a85)
 ![최종발표_38](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/2addb93f-b475-4a57-9222-747b8e0bd32b)
 ![최종발표_39](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/426bfe12-7a62-4e9d-8c07-5b85ce1e721d)
 ![최종발표_40](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/d78f9778-d134-44d4-8819-b9f304805a8a)
+ - 이후 게임을 휴대폰이나 다른 플랫폼에서 사용할 수 있게 만들려고 하였고 멀티를 생각했지만 서로 사회로 나가버려 프로젝트는 여기서 막을내렸습니다. 지금까지 봐주셔서 감사합니다.
+
 ![최종발표_41](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/6b2ed4e7-265a-4ed3-afe0-43405448e2b0)
 ![최종발표_42](https://github.com/gkxotjd12312/Revenge_of_Cactus/assets/54784059/47730cca-7586-4465-bb00-06a9bf171ddd)
 
